@@ -1,0 +1,117 @@
+{
+    "copyright": "Copyright (c) 2024 Reborn",
+    "all_rights_reserved": "All rights reserved",
+    "welcome_title": "Welcome on Boongo",
+    "welcome_description": "Check out books, magazines, newspapers, geographical maps, etc.",
+    "about_boongo": "About the Boongo app",
+    "about_reborn": "About the Reborn company",
+    "terms_accept1": "By creating your account, you accept our ",
+    "terms_accept2": " and our policy for ",
+    "change_lang": "Change language",
+    "back_home": "Back to home",
+    "video_ended": "The video is finished!",
+    "error": "Error:",
+    "empty_list": {
+        "title": "The list is empty",
+        "description_popular": "Here, the works most consulted by members will be displayed.",
+        "description_books": "Here, the books will be displayed which can be consulted by members.",
+        "description_mags": "Here, the journals, newspapers or magazines which can be consulted by members will be displayed.",
+        "description_medias": "Here, the medias will be displayed which can be consulted by members.",
+        "description_maps": "Here, geographic maps will be displayed which can be consulted by members."
+    },
+    "back_list": "Back to the list",
+    "work_details": {
+        "title": "Details about the work",
+        "type": "Type: ",
+        "categories": "Categories: ",
+        "category": "Category: ",
+        "author": "Author: ",
+        "subscription_info": "Subscribe to be able to consult, or order a book or magazine."
+    },
+    "most_popular": "The most popular",
+    "have_account": "Already have an account?",
+    "no_account": "Don’t have an account?",
+    "select_date": "Select the date",
+    "search": "Search...",
+    "show": "Show",
+    "hide": "Hide",
+    "see_all": "See all",
+    "see_details": "See details",
+    "expand": "Expand",
+    "cut": "Cut",
+    "confirm": "Confirm",
+    "send": "Send",
+    "cancel": "Cancel",
+    "update": "Update",
+    "change": "Change",
+    "register": "Register",
+    "login": "Log in",
+    "logout": "Log out",
+    "subscribe": "Subscribe",
+    "addToCart": "Add to cart",
+    "withdrawFromCart": "Withdraw from cart",
+    "pay": "Pay now",
+
+    "navigation": {
+        "home": "Home",
+        "about": "About",
+        "terms": "Terms",
+        "privacy": "Privacy",
+        "contact": "Contact us",
+        "book": "Books",
+        "magazine": "Magazines & journals",
+        "mapping": "Mapping",
+        "media": "Medias",
+        "notification": "Notifications",
+        "account": "My account",
+        "update_account": "Update account",
+        "cart": "My cart",
+        "work": "My works"
+    },
+
+    "auth": {
+        "firstname": "First name",
+        "lastname": "Last name",
+        "surname": "Surname",
+        "gender": {
+            "label": "Gender",
+            "male": "Male",
+            "female": "Female"
+        },
+        "birthdate": "Date of birth",
+        "city": "City",
+        "country": {
+            "title": "Choose a country",
+            "label": "Country"
+        },
+        "address_1": "Address 1",
+        "address_2": "Address 2 (Optional)",
+        "p_o_box": "P.O. Box",
+        "email": "E-mail",
+        "phone": "Phone number",
+        "username": "Username",
+        "login_username": "E-mail, phone or username",
+        "password": {
+            "label": "Password",
+            "former": "Former password",
+            "new": "New password",
+            "error": "The password is incorrect",
+            "forgotten": "Forgotten password",
+            "reset": "Reset password"
+        },
+        "confirm_password": {
+            "label": "Confirm password",
+            "new": "Confirm new password",
+            "error": "The confirmation didn't match"
+        },
+        "avatar": {
+            "label": "Change your avatar",
+            "upload": "Upload a photo",
+            "camera": "Use the camera"
+        },
+        "status": {
+            "disable": "Disable my account",
+            "reactivate": "Reactivate my account"
+        }
+    }
+}
